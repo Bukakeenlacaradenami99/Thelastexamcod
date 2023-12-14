@@ -162,9 +162,11 @@ arrasttramos la imagen y listo, guardar cambios con commit.
 
 imagen del diagrama de clases:
 
+![diagrama de clases png (2)](https://github.com/Bukakeenlacaradenami99/Thelastexamcod/assets/145834795/5678cae6-9ad0-415c-bf24-01d90180555f)
 
 
 imagen del diagrama de flujo:
 
 
+![diagrama de flujo png](https://github.com/Bukakeenlacaradenami99/Thelastexamcod/assets/145834795/9184a4ed-e083-4516-abde-ef2f07c7220b)
 
