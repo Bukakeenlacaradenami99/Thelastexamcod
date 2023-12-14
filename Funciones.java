@@ -11,6 +11,7 @@ public class Funciones {
     public void partida(){
 
         //aqui iria la partida
+        //modificacion en la clase funcunciones
 
     }
 
